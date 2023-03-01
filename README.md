@@ -2,7 +2,7 @@
 
 # Diccionario 2023
 
-<img width="75%" src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" alt="">
+<img width="50%" src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" alt="">
 
 | Nombre: | Cristhian Hernández |
 |---------| ------------------- |
